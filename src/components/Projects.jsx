@@ -19,8 +19,8 @@ function Projects() {
       desc: 'Real-time asynchronous weather prediction dashboards consuming accurate API endpoints securely.',
       tech: ['React', 'CSS', 'REST API'],
       img: 'https://via.placeholder.com/400x200', // NOTE: Replace with weather.png
-      github: '#', // NOTE: Replace GitHub link here
-      live: '#', // NOTE: Replace Live Demo here
+      github: 'https://github.com/akaunghtet045-droid/Weather-App', // NOTE: Replace GitHub link here
+      live: 'https://weather-app-theta-seven-70.vercel.app/', // NOTE: Replace Live Demo here
       isAvailable: true
     },
     {
