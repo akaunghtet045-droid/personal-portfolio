@@ -40,7 +40,7 @@ function Projects() {
       tech: ['React', 'CSS', 'Vanilla Mechanics'],
       img: 'https://via.placeholder.com/400x200', // NOTE: Replace with portfolio.png
       github: 'https://github.com/akaunghtet045-droid/personal-portfolio', // NOTE: Replace GitHub link here
-      live: '#', // NOTE: Replace Live Demo here
+      live: 'https://personal-portfolio-smoky-two-78.vercel.app/'
       isAvailable: true
     },
     {
