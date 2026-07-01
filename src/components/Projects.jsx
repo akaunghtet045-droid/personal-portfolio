@@ -9,8 +9,8 @@ function Projects() {
       desc: 'An advanced production todo tracking layout utilizing modern locally persisting object lists.',
       tech: ['React', 'CSS', 'JavaScript'],
       img: 'https://via.placeholder.com/400x200', // NOTE: Replace with todo.png source array references
-      github: '#', // NOTE: Replace GitHub link here
-      live: '#', // NOTE: Replace Live Demo here
+      github: 'https://github.com/akaunghtet045-droid/To-Do-App', // NOTE: Replace GitHub link here
+      live: 'https://to-do-app-rouge-beta.vercel.app/', // NOTE: Replace Live Demo here
       isAvailable: true
     },
     {
@@ -40,7 +40,7 @@ function Projects() {
       tech: ['React', 'CSS', 'Vanilla Mechanics'],
       img: 'https://via.placeholder.com/400x200', // NOTE: Replace with portfolio.png
       github: 'https://github.com/akaunghtet045-droid/personal-portfolio', // NOTE: Replace GitHub link here
-      live: 'https://personal-portfolio-smoky-two-78.vercel.app/'
+      live: 'https://personal-portfolio-smoky-two-78.vercel.app/',
       isAvailable: true
     },
     {
