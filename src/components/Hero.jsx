@@ -15,7 +15,7 @@ function Hero() {
           </p>
           <div className="hero-btns">
             {/* NOTE: Replace Resume PDF Link here for Download CV */}
-            <a href="#download-cv" className="btn-primary">Download CV</a>
+            <a href="file:///C:/Users/ACER/Downloads/Telegram%20Desktop/Kyaw_Yi_Mon_Frontend_Developer_CV.pdf%E2%81%A0.pdf" className="btn-primary">Download CV</a>
             <a href="#projects" className="btn-secondary">View Projects</a>
           </div>
         </div>
