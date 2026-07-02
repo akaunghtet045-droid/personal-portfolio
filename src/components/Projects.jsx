@@ -1,5 +1,8 @@
 import React from 'react';
 import '../css/Projects.css';
+import todos from '../assets/todos.jpg'
+import weather from '../assets/weather.jpg'
+import portfolio from '../assets/portfolio.jpg'
 
 function Projects() {
   const projectList = [
@@ -8,9 +11,9 @@ function Projects() {
       title: 'Todo App',
       desc: 'An advanced production todo tracking layout utilizing modern locally persisting object lists.',
       tech: ['React', 'CSS', 'JavaScript'],
-      img: 'https://via.placeholder.com/400x200', // NOTE: Replace with todo.png source array references
-      github: 'https://github.com/akaunghtet045-droid/To-Do-App', // NOTE: Replace GitHub link here
-      live: 'https://to-do-app-rouge-beta.vercel.app/', // NOTE: Replace Live Demo here
+      img: todos, 
+      github: 'https://github.com/akaunghtet045-droid/To-Do-App', 
+      live: 'https://to-do-app-rouge-beta.vercel.app/', 
       isAvailable: true
     },
     {
@@ -18,9 +21,9 @@ function Projects() {
       title: 'Weather App',
       desc: 'Real-time asynchronous weather prediction dashboards consuming accurate API endpoints securely.',
       tech: ['React', 'CSS', 'REST API'],
-      img: 'https://via.placeholder.com/400x200', // NOTE: Replace with weather.png
-      github: 'https://github.com/akaunghtet045-droid/Weather-App', // NOTE: Replace GitHub link here
-      live: 'https://weather-app-theta-seven-70.vercel.app/', // NOTE: Replace Live Demo here
+      img: weather, 
+      github: 'https://github.com/akaunghtet045-droid/Weather-App', 
+      live: 'https://weather-app-theta-seven-70.vercel.app/', 
       isAvailable: true
     },
     {
@@ -28,8 +31,8 @@ function Projects() {
       title: 'Portfolio Website',
       desc: 'Elegant, modern, light responsive glassmorphism based hub showcasing active designer applications.',
       tech: ['React', 'CSS', 'Vanilla Mechanics'],
-      img: 'https://via.placeholder.com/400x200', // NOTE: Replace with portfolio.png
-      github: 'https://github.com/akaunghtet045-droid/personal-portfolio', // NOTE: Replace GitHub link here
+      img: portfolio, 
+      github: 'https://github.com/akaunghtet045-droid/personal-portfolio', 
       live: 'https://personal-portfolio-smoky-two-78.vercel.app/',
       isAvailable: true
     },

@@ -3,6 +3,7 @@ import '../css/Hero.css';
 import myimage from '../assets/myimage.jpg'
 import mycv from '../assets/cv.pdf'
 
+
 function Hero() {
   return (
     <section id="home" className="hero">

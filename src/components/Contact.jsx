@@ -35,10 +35,10 @@ function Contact() {
         </form>
 
         <div className="social-links">
-          {/* NOTE: Replace GitHub, LinkedIn, Telegram, and Email links below */}
+          
           <a href="https://github.com/akaunghtet045-droid" className="social-icon" target="_blank" rel="noreferrer">GitHub</a>
           <a href="https://t.me/Snakey0067" className="social-icon" target="_blank" rel="noreferrer">Telegram</a>
-          <a href="akaunghtet045@gmail.com" className="social-icon">Email</a>
+          <a href="mailto:akaunghtet045@gmail.com" className="social-icon">Email</a>
         </div>
       </div>
     </section>

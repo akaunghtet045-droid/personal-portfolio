@@ -9,9 +9,7 @@ function Footer() {
         <p className="footer-text">Building modern web solutions with clean structural styling templates.</p>
         
         <div className="footer-socials">
-          {/* NOTE: Replace social asset reference links */}
           <a href="https://github.com/akaunghtet045-droid" className="footer-social-link">GitHub</a>
-          <a href="https://t.me/Snakey0067" className="footer-social-link">Telegram</a>
         </div>
 
         <p className="copyright">&copy; {new Date().getFullYear()} Snakey. All rights reserved.</p>
