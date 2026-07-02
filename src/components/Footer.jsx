@@ -10,9 +10,8 @@ function Footer() {
         
         <div className="footer-socials">
           {/* NOTE: Replace social asset reference links */}
-          <a href="#github" className="footer-social-link">GitHub</a>
-          <a href="#linkedin" className="footer-social-link">LinkedIn</a>
-          <a href="#telegram" className="footer-social-link">Telegram</a>
+          <a href="https://github.com/akaunghtet045-droid" className="footer-social-link">GitHub</a>
+          <a href="https://t.me/Snakey0067" className="footer-social-link">Telegram</a>
         </div>
 
         <p className="copyright">&copy; {new Date().getFullYear()} Snakey. All rights reserved.</p>

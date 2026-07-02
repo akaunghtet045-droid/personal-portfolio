@@ -24,16 +24,6 @@ function Projects() {
       isAvailable: true
     },
     {
-      id: 3,
-      title: 'Product Search',
-      desc: 'High performance structural product filtering layout UI utilizing instant item search parameters.',
-      tech: ['React', 'CSS', 'State Management'],
-      img: 'https://via.placeholder.com/400x200', // NOTE: Replace with product.png
-      github: '#', // NOTE: Replace GitHub link here
-      live: '#', // NOTE: Replace Live Demo here
-      isAvailable: true
-    },
-    {
       id: 4,
       title: 'Portfolio Website',
       desc: 'Elegant, modern, light responsive glassmorphism based hub showcasing active designer applications.',
