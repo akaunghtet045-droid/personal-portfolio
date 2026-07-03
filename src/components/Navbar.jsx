@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import '../css/Navbar.css';
-import mycv from '../assets/cv.pdf'
+import newcv from '../assets/newcv.pdf'
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -26,7 +26,7 @@ function Navbar() {
           <li className="nav-item"><a href="#projects" onClick={() => setIsOpen(false)}>Projects</a></li>
           <li className="nav-item"><a href="#contact" onClick={() => setIsOpen(false)}>Contact</a></li>
           <li>
-            <a href={mycv} download='Kyaw_yi_mon_Frontend_Developer_CV.pdf' target="_blank" rel="noreferrer">
+            <a href={newcv} download='Kyaw_yi_mon_Frontend_Developer_CV.pdf' target="_blank" rel="noreferrer">
               <button className="resume-btn">Resume</button>
             </a>
           </li>

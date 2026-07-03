@@ -1,7 +1,7 @@
 import React from 'react';
 import '../css/Hero.css';
 import myimage from '../assets/myimage.jpg'
-import mycv from '../assets/cv.pdf'
+import newcv from '../assets/newcv.pdf'
 
 
 function Hero() {
@@ -17,7 +17,7 @@ function Hero() {
           </p>
           <div className="hero-btns">
             
-            <a href={mycv} download='Kyaw_yi_mon_Frontend_Developer_CV.pdf' className="btn-primary">Download CV</a>
+            <a href={newcv} download='Kyaw_Yi_Mon_Frontend_Developer_Internship_cv.pdf' className="btn-primary">Download CV</a>
             <a href="#projects" className="btn-secondary">View Projects</a>
           </div>
         </div>
