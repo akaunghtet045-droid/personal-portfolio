@@ -24,7 +24,7 @@ Live Demo
 
 https://personal-portfolio-smoky-two-78.vercel.app/
 
-## 💻 Installation
+Installation
 
 ```bash
 
