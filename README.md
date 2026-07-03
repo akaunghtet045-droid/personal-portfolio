@@ -1,8 +1,8 @@
-# 🌐 Personal Portfolio
+Personal Portfolio
 
 A modern and responsive personal portfolio website built with React.js to showcase my projects, skills, and frontend development journey.
 
-## ✨ Features
+Features
 
 - Responsive Design
 - Smooth Scrolling Navigation
@@ -13,16 +13,14 @@ A modern and responsive personal portfolio website built with React.js to showca
 - Social Media Links
 - Resume Download
 
-## 🛠️ Built With
+Built With
 
 - React.js
 - Vite
 - CSS3
 - JavaScript (ES6)
 
-(Add your screenshot here)
-
-## 🚀 Live Demo
+Live Demo
 
 https://personal-portfolio-smoky-two-78.vercel.app/
 
